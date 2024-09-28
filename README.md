@@ -32,6 +32,12 @@
 
 ## <a name="Mind-Map"></a>Mind Map 
 
+
+![Introduction to Cyber Crime Investigation](https://github.com/user-attachments/assets/42101c3d-1fc2-4631-99a4-c26ed3e341ee)
+
+
+
+## 👇
 [Introduction to Cyber Crime Investigation.pdf](https://github.com/user-attachments/files/17174605/Introduction.to.Cyber.Crime.Investigation.pdf)
 
 
