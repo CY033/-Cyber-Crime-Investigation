@@ -2,7 +2,7 @@
 
 
  # Course Modules
-
+# [Mind Map ](#mind-map)
 ## [1. Introduction to Cyber Criminology](#introduction-to-cyber-criminology)
 ## 2. [Crime Scene Investigation Evidences](#crime-scene-investigation-evidences)
 ## 3. [Evidence and Information Gathering](#evidence-and-information-gathering)
@@ -29,6 +29,13 @@
 ## 24. [Starting Career as Cyber Crime Investigator](#starting-career-as-cyber-crime-investigator)
 
 ---
+
+## <a name="Mind-Map"></a>Mind Map 
+
+[Introduction to Cyber Crime Investigation.pdf](https://github.com/user-attachments/files/17174605/Introduction.to.Cyber.Crime.Investigation.pdf)
+
+
+
 
 ## <a name="introduction-to-cyber-criminology"></a>1. Introduction to Cyber Criminology
 
